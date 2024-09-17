@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\obj\Debug\net8.0\CalculadoraImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\obj\Debug\net8.0\CalculadoraImposto.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\obj\Debug\net8.0\CalculadoraImposto.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\obj\Debug\net8.0\CalculadoraImposto.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\bin\Debug\net8.0\CalculadoraImposto.exe
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\bin\Debug\net8.0\CalculadoraImposto.deps.json
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\bin\Debug\net8.0\CalculadoraImposto.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\bin\Debug\net8.0\CalculadoraImposto.dll
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\bin\Debug\net8.0\CalculadoraImposto.pdb
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\obj\Debug\net8.0\CalculadoraImposto.dll
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\obj\Debug\net8.0\refint\CalculadoraImposto.dll
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\obj\Debug\net8.0\CalculadoraImposto.pdb
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\obj\Debug\net8.0\CalculadoraImposto.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\CalculadoraImposto\obj\Debug\net8.0\ref\CalculadoraImposto.dll
