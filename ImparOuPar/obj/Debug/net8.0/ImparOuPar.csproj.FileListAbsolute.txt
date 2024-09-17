@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\bin\Debug\net8.0\ImparOuPar.exe
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\bin\Debug\net8.0\ImparOuPar.deps.json
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\bin\Debug\net8.0\ImparOuPar.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\bin\Debug\net8.0\ImparOuPar.dll
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\bin\Debug\net8.0\ImparOuPar.pdb
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\obj\Debug\net8.0\ImparOuPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\obj\Debug\net8.0\ImparOuPar.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\obj\Debug\net8.0\ImparOuPar.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\obj\Debug\net8.0\ImparOuPar.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\obj\Debug\net8.0\ImparOuPar.dll
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\obj\Debug\net8.0\refint\ImparOuPar.dll
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\obj\Debug\net8.0\ImparOuPar.pdb
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\obj\Debug\net8.0\ImparOuPar.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\ImparOuPar\obj\Debug\net8.0\ref\ImparOuPar.dll
