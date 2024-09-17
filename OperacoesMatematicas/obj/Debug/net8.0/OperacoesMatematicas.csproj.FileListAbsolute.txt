@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\bin\Debug\net8.0\OperacoesMatematicas.exe
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\bin\Debug\net8.0\OperacoesMatematicas.deps.json
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\bin\Debug\net8.0\OperacoesMatematicas.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\bin\Debug\net8.0\OperacoesMatematicas.dll
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\bin\Debug\net8.0\OperacoesMatematicas.pdb
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.dll
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\obj\Debug\net8.0\refint\OperacoesMatematicas.dll
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.pdb
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\OperacoesMatematicas\obj\Debug\net8.0\ref\OperacoesMatematicas.dll

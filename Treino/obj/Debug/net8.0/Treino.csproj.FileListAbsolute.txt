@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\Treino\obj\Debug\net8.0\Treino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\Treino\obj\Debug\net8.0\Treino.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\Treino\obj\Debug\net8.0\Treino.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\Treino\obj\Debug\net8.0\Treino.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\Treino\bin\Debug\net8.0\Treino.exe
+C:\Users\Luiz\Documents\Atividades\Treino\bin\Debug\net8.0\Treino.deps.json
+C:\Users\Luiz\Documents\Atividades\Treino\bin\Debug\net8.0\Treino.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\Treino\bin\Debug\net8.0\Treino.dll
+C:\Users\Luiz\Documents\Atividades\Treino\bin\Debug\net8.0\Treino.pdb
+C:\Users\Luiz\Documents\Atividades\Treino\obj\Debug\net8.0\Treino.dll
+C:\Users\Luiz\Documents\Atividades\Treino\obj\Debug\net8.0\refint\Treino.dll
+C:\Users\Luiz\Documents\Atividades\Treino\obj\Debug\net8.0\Treino.pdb
+C:\Users\Luiz\Documents\Atividades\Treino\obj\Debug\net8.0\Treino.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\Treino\obj\Debug\net8.0\ref\Treino.dll
