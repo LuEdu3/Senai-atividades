@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\obj\Debug\net8.0\NotasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\obj\Debug\net8.0\NotasRepeticao.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\obj\Debug\net8.0\NotasRepeticao.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\obj\Debug\net8.0\NotasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\bin\Debug\net8.0\NotasRepeticao.exe
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\bin\Debug\net8.0\NotasRepeticao.deps.json
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\bin\Debug\net8.0\NotasRepeticao.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\bin\Debug\net8.0\NotasRepeticao.dll
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\bin\Debug\net8.0\NotasRepeticao.pdb
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\obj\Debug\net8.0\NotasRepeticao.dll
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\obj\Debug\net8.0\refint\NotasRepeticao.dll
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\obj\Debug\net8.0\NotasRepeticao.pdb
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\obj\Debug\net8.0\NotasRepeticao.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\NotasRepeticao\obj\Debug\net8.0\ref\NotasRepeticao.dll
