@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\obj\Debug\net8.0\AdivinharNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\obj\Debug\net8.0\AdivinharNumero.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\obj\Debug\net8.0\AdivinharNumero.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\obj\Debug\net8.0\AdivinharNumero.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\bin\Debug\net8.0\AdivinharNumero.exe
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\bin\Debug\net8.0\AdivinharNumero.deps.json
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\bin\Debug\net8.0\AdivinharNumero.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\bin\Debug\net8.0\AdivinharNumero.dll
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\bin\Debug\net8.0\AdivinharNumero.pdb
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\obj\Debug\net8.0\AdivinharNumero.dll
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\obj\Debug\net8.0\refint\AdivinharNumero.dll
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\obj\Debug\net8.0\AdivinharNumero.pdb
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\obj\Debug\net8.0\AdivinharNumero.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\AdivinharNumero\obj\Debug\net8.0\ref\AdivinharNumero.dll
