@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\EAD06\obj\Debug\net8.0\EAD06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\EAD06\obj\Debug\net8.0\EAD06.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\EAD06\obj\Debug\net8.0\EAD06.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\EAD06\obj\Debug\net8.0\EAD06.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\EAD06\bin\Debug\net8.0\EAD06.exe
+C:\Users\Luiz\Documents\Atividades\EAD06\bin\Debug\net8.0\EAD06.deps.json
+C:\Users\Luiz\Documents\Atividades\EAD06\bin\Debug\net8.0\EAD06.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\EAD06\bin\Debug\net8.0\EAD06.dll
+C:\Users\Luiz\Documents\Atividades\EAD06\bin\Debug\net8.0\EAD06.pdb
+C:\Users\Luiz\Documents\Atividades\EAD06\obj\Debug\net8.0\EAD06.dll
+C:\Users\Luiz\Documents\Atividades\EAD06\obj\Debug\net8.0\refint\EAD06.dll
+C:\Users\Luiz\Documents\Atividades\EAD06\obj\Debug\net8.0\EAD06.pdb
+C:\Users\Luiz\Documents\Atividades\EAD06\obj\Debug\net8.0\EAD06.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\EAD06\obj\Debug\net8.0\ref\EAD06.dll

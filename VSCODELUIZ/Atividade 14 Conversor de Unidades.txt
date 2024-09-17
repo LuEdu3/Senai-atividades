@@ -1,0 +1,39 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("------Conversor de Medidas------");
+		
+		
+		Console.WriteLine("Digite a distância em metros: ");
+		float.TryParse(Console.ReadLine(), out float metro);
+		
+		float cm = metro/0.01f;
+		float km = metro/1000f;
+		float mi = metro/1609.34f;
+
+        Console.WriteLine("\nEscolha a unidade de conversão: ");
+		Console.WriteLine("cm -Centímetros.");
+        Console.WriteLine("km - Quilômetros.");
+        Console.WriteLine("mi - Milhas.");
+		string conversao = Console.ReadLine();
+		
+		switch (conversao)
+		{
+			case "cm": 
+                Console.WriteLine($"\nA conversão de {metro} metros para centímetros é {cm} centímetros.");
+            break; 
+            
+            case "km":
+                Console.WriteLine($"\nA conversão de {metro} metros para quilômetros é {km} quilômetros.");
+            break;
+            
+            case "mi":
+                Console.WriteLine($"\nA conversão de {metro} metros para milhas é {mi} milhas.");
+            break;
+		}
+       
+	}
+}

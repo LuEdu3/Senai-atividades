@@ -1,0 +1,24 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Escreva a nota");
+		string nota1 = Console.ReadLine();
+		
+		float nota2 = float.Parse(nota1);
+		
+		if(nota2>=10){
+		Console.WriteLine("Aprovado");
+		}
+		else if (nota2>=5){
+		Console.WriteLine("Recuperação");
+		}
+		if(nota2<=4){
+		Console.WriteLine("Reprovado");
+		}	
+		
+		
+	}
+}
