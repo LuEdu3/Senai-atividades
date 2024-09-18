@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\NotasMedias\bin\Debug\net8.0\NotasMedias.exe
+C:\Users\Luiz\Documents\Atividades\NotasMedias\bin\Debug\net8.0\NotasMedias.deps.json
+C:\Users\Luiz\Documents\Atividades\NotasMedias\bin\Debug\net8.0\NotasMedias.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\NotasMedias\bin\Debug\net8.0\NotasMedias.dll
+C:\Users\Luiz\Documents\Atividades\NotasMedias\bin\Debug\net8.0\NotasMedias.pdb
+C:\Users\Luiz\Documents\Atividades\NotasMedias\obj\Debug\net8.0\NotasMedias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\NotasMedias\obj\Debug\net8.0\NotasMedias.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\NotasMedias\obj\Debug\net8.0\NotasMedias.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\NotasMedias\obj\Debug\net8.0\NotasMedias.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\NotasMedias\obj\Debug\net8.0\NotasMedias.dll
+C:\Users\Luiz\Documents\Atividades\NotasMedias\obj\Debug\net8.0\refint\NotasMedias.dll
+C:\Users\Luiz\Documents\Atividades\NotasMedias\obj\Debug\net8.0\NotasMedias.pdb
+C:\Users\Luiz\Documents\Atividades\NotasMedias\obj\Debug\net8.0\NotasMedias.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\NotasMedias\obj\Debug\net8.0\ref\NotasMedias.dll

@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\obj\Debug\net8.0\ContarNumLetras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\obj\Debug\net8.0\ContarNumLetras.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\obj\Debug\net8.0\ContarNumLetras.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\obj\Debug\net8.0\ContarNumLetras.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\bin\Debug\net8.0\ContarNumLetras.exe
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\bin\Debug\net8.0\ContarNumLetras.deps.json
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\bin\Debug\net8.0\ContarNumLetras.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\bin\Debug\net8.0\ContarNumLetras.dll
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\bin\Debug\net8.0\ContarNumLetras.pdb
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\obj\Debug\net8.0\ContarNumLetras.dll
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\obj\Debug\net8.0\refint\ContarNumLetras.dll
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\obj\Debug\net8.0\ContarNumLetras.pdb
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\obj\Debug\net8.0\ContarNumLetras.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\ContarNumLetras\obj\Debug\net8.0\ref\ContarNumLetras.dll

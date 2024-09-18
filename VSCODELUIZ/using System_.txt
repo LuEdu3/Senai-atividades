@@ -1,0 +1,58 @@
+using System;
+class HelloWorld {
+	static void Main() {
+
+		Console.WriteLine("-----Sorteio Mega-Sena-----");
+		Random randNum = new Random();
+
+		int jogos = 0;
+		while(true)
+		{
+			Console.Write("Quantidade de jogos: ");
+			string jogos1 = Console.ReadLine();
+			if(int.TryParse(jogos1. out jogos) || jogos> 0)
+				break;
+			else
+				Console.Write("NC:mero invC!lido! Por favor, tente informar o nC:mero novamente.");
+		}
+
+		int quantdez = 0;
+		while(true)
+		{
+			Console.Write("Digite a quantidade de dezenas Min:6 Max: 15: ");
+			string quantdez1 = Console.ReadLine();
+			if(int.TryParse(quantdez1, out quantdez) && quantdez >= 6 && quantdez <= 15)
+			    break;
+			else
+			    Console.Write("Número inválido! Por favor, tente informar um número entre 6 e 15.");
+			
+		}
+            int sorteiodopremio = 0;
+            while(true)
+        	}   
+			Console.Write("Insira o premio do jogo: ");
+			if(int.TryParse(sorteio1, out sorteiodopremio) && sorteiodopremio >= 0)
+			    break;
+			else
+			    Console.Write("Número inválido! Por favor, tente informar um número entre 6 e 15.");
+            }
+            
+			Console.Write($"\n6 dezenas ganha R${sorteiodopremio*0.75}");
+			Console.Write($"\n5 dezenas ganha R${sorteiodopremio*0.15}");
+			Console.Write($"\n4 dezenas ganha R${sorteiodopremio*0.10}");
+
+			for (int j = 1; j <= jogos; j++)
+        {
+            Console.Write("Jogo " + j + ": ");
+            for (int i = 1; i <= quantdez; i++)
+            {
+                int num = randNum.Next(1, 61);
+                if (i > 1) Console.Write("-");
+                Console.Write($"{num:D2}");
+            }
+            Console.WriteLine();
+
+
+
+		}
+	}

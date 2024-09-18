@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\bin\Debug\net8.0\ConversaoDinheiro.exe
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\bin\Debug\net8.0\ConversaoDinheiro.deps.json
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\bin\Debug\net8.0\ConversaoDinheiro.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\bin\Debug\net8.0\ConversaoDinheiro.dll
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\bin\Debug\net8.0\ConversaoDinheiro.pdb
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\obj\Debug\net8.0\ConversaoDinheiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\obj\Debug\net8.0\ConversaoDinheiro.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\obj\Debug\net8.0\ConversaoDinheiro.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\obj\Debug\net8.0\ConversaoDinheiro.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\obj\Debug\net8.0\ConversaoDinheiro.dll
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\obj\Debug\net8.0\refint\ConversaoDinheiro.dll
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\obj\Debug\net8.0\ConversaoDinheiro.pdb
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\obj\Debug\net8.0\ConversaoDinheiro.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\ConversaoDinheiro\obj\Debug\net8.0\ref\ConversaoDinheiro.dll

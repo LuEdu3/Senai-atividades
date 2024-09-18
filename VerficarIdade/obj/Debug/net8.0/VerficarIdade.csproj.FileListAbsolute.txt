@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\bin\Debug\net8.0\VerficarIdade.exe
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\bin\Debug\net8.0\VerficarIdade.deps.json
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\bin\Debug\net8.0\VerficarIdade.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\bin\Debug\net8.0\VerficarIdade.dll
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\bin\Debug\net8.0\VerficarIdade.pdb
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\obj\Debug\net8.0\VerficarIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\obj\Debug\net8.0\VerficarIdade.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\obj\Debug\net8.0\VerficarIdade.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\obj\Debug\net8.0\VerficarIdade.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\obj\Debug\net8.0\VerficarIdade.dll
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\obj\Debug\net8.0\refint\VerficarIdade.dll
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\obj\Debug\net8.0\VerficarIdade.pdb
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\obj\Debug\net8.0\VerficarIdade.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\VerficarIdade\obj\Debug\net8.0\ref\VerficarIdade.dll

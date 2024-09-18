@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\obj\Debug\net8.0\SalarioDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\obj\Debug\net8.0\SalarioDecimal.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\obj\Debug\net8.0\SalarioDecimal.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\obj\Debug\net8.0\SalarioDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\bin\Debug\net8.0\SalarioDecimal.exe
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\bin\Debug\net8.0\SalarioDecimal.deps.json
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\bin\Debug\net8.0\SalarioDecimal.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\bin\Debug\net8.0\SalarioDecimal.dll
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\bin\Debug\net8.0\SalarioDecimal.pdb
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\obj\Debug\net8.0\SalarioDecimal.dll
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\obj\Debug\net8.0\refint\SalarioDecimal.dll
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\obj\Debug\net8.0\SalarioDecimal.pdb
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\obj\Debug\net8.0\SalarioDecimal.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\SalarioDecimal\obj\Debug\net8.0\ref\SalarioDecimal.dll

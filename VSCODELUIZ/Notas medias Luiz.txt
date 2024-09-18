@@ -1,0 +1,50 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{   //Máquina pede a nota
+		Console.WriteLine("Escreva a nota 1:");
+		//Escreve a nota
+		string nota = Console.ReadLine();
+		//Converte a nota alfanumerica para numero
+		float notas1 = float.Parse(nota);
+		
+		//Máquina pede a nota
+		Console.WriteLine("Escreva a nota 2:");
+		//Escreve a nota
+		string nota2 = Console.ReadLine();
+		//Converte a nota alfanumerica para numero
+		float notas2 = float.Parse(nota2);
+		
+		//Máquina pede a nota
+		Console.WriteLine("Escreva a nota 3:");
+		//Escreve a nota
+		string nota3 = Console.ReadLine();
+		//Converte a nota alfanumerica para numero
+		float notas3 = float.Parse(nota3);
+		
+		//Máquina pede a nota
+		Console.WriteLine("Escreva a nota 4:");
+		//Escreve a nota
+		string nota4 = Console.ReadLine();
+		//Converte a nota alfanumerica para numero
+		float notas4 = float.Parse(nota4);
+		
+		//faz a media das notas usando float para converter
+		float media = (notas1+notas2+notas3+notas4)/4;
+		
+		//se a nota for maior ou igual que 60 o aluno é aprovado
+		if(media >=60){
+		Console.WriteLine("Aluno Aprovado");
+		}
+		//se a nota for maior ou igual que 40 o aluno é aprovado
+		else if(media>=40){
+		Console.WriteLine("Aluno de recuperação");
+		}
+		//se nao for nenhuma das condicões acima é a que sobra (else)
+		else{
+		Console.WriteLine("Aluno Reprovado");
+		}
+	}
+}

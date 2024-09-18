@@ -1,0 +1,26 @@
+using System;
+
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Informe a palavra: "); //informa a palavra
+		
+		string palavra = Console.ReadLine(); //le a palavra
+		
+		Console.WriteLine("Informe a Letra: ");//informe a palavra
+		
+		char letra = char.Parse(Console.ReadLine());//abre um tipo de vetor (letra), converte para string para char
+		
+		int total = 0; //cria uma variavel total iniciada em 0
+		for (int contabil = 0; contabil < palavra.Length; contabil++) //estrutura for com o adicional de palavra.Lenght menor que a variavel contabil que ira fazer a conta das palavras
+		{
+			if (letra == palavra[contabil])//um loop for feito dentro da palavra, palavra conta as letras
+			{
+				total++;
+			}
+		}
+
+		Console.WriteLine($"A letra {letra} foi repetida {total} vezes.");//saida
+	}
+}

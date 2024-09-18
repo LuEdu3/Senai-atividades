@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Atividades\Notas\bin\Debug\net8.0\Notas.exe
+C:\Users\Luiz\Documents\Atividades\Notas\bin\Debug\net8.0\Notas.deps.json
+C:\Users\Luiz\Documents\Atividades\Notas\bin\Debug\net8.0\Notas.runtimeconfig.json
+C:\Users\Luiz\Documents\Atividades\Notas\bin\Debug\net8.0\Notas.dll
+C:\Users\Luiz\Documents\Atividades\Notas\bin\Debug\net8.0\Notas.pdb
+C:\Users\Luiz\Documents\Atividades\Notas\obj\Debug\net8.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\Atividades\Notas\obj\Debug\net8.0\Notas.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Atividades\Notas\obj\Debug\net8.0\Notas.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Atividades\Notas\obj\Debug\net8.0\Notas.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Atividades\Notas\obj\Debug\net8.0\Notas.dll
+C:\Users\Luiz\Documents\Atividades\Notas\obj\Debug\net8.0\refint\Notas.dll
+C:\Users\Luiz\Documents\Atividades\Notas\obj\Debug\net8.0\Notas.pdb
+C:\Users\Luiz\Documents\Atividades\Notas\obj\Debug\net8.0\Notas.genruntimeconfig.cache
+C:\Users\Luiz\Documents\Atividades\Notas\obj\Debug\net8.0\ref\Notas.dll
